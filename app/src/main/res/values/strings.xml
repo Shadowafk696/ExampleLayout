@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">layouts</string>
+    <string name="numberOne">1</string>
+    <string name="numberTwo">2</string>
+    <string name="numberThree">3</string>
+    <string name="numberFour">4</string>
+    <string name="numberFive">5</string>
+    <string name="numberSix">6</string>
+    <string name="numberSeven">7</string>
+    <string name="numberEight">8</string>
+    <string name="numberNine">9</string>
+    <string name="numberZero">0</string>
+    <string name="ButtonDivision">/</string>
+    <string name="Multiplication">*</string>
+    <string name="Sum">+</string>
+    <string name="Rest">-</string>
+    <string name="ButtonOn">ON</string>
+    <string name="Button_Equal">=</string>
+
 </resources>
